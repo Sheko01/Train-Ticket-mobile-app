@@ -26,6 +26,6 @@ The Train Ticket Booking app is a mobile application developed using Flutter, a 
 - **Shared Preferences:** Flutter plugin for persistently storing data locally.
 
 ## Note
--Read the Train Ticket Documentation file. 
--Ensure to create new flutter app and add the files to it.
--Take care to install all dependencies in pubspec.yaml file.
+- **Read the Train Ticket Documentation file. 
+- **Ensure to create new flutter app and add the files to it.
+- **Take care to install all dependencies in pubspec.yaml file.
